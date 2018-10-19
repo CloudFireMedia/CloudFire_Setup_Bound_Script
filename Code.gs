@@ -1,11 +1,11 @@
 var SCRIPT_NAME = "CloudFire_Setup"
-var SCRIPT_VERSION = "v0.2"
+var SCRIPT_VERSION = "v0.3"
 
 function onOpen() {
   SpreadsheetApp
     .getUi()
     .createMenu('CloudFire')
-    .addItem('Install CloudFire', 'onInstall')
+    .addItem('Install', 'onInstall')
     .addToUi()
 }
 
