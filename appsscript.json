@@ -4,7 +4,7 @@
     "libraries": [{
       "userSymbol": "CloudFire",
       "libraryId": "1PI3mWRoeD3LA_WVDOueGJB6ttjbzTr4lrO75tNl3F2-Sqcky_cy-j8NM",
-      "version": "4"
+      "version": "5"
     }]
   },
   "exceptionLogging": "STACKDRIVER"
