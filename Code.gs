@@ -1,5 +1,5 @@
 var SCRIPT_NAME = "CloudFire_Setup"
-var SCRIPT_VERSION = "v0.5"
+var SCRIPT_VERSION = "v0.6"
 
 function onOpen() {
   SpreadsheetApp
@@ -10,7 +10,7 @@ function onOpen() {
 }
 
 // Menu options
-function onInstall() {CloudFire.onInstall()}
+function onInstall() {CloudFireSetup.onInstall()}
 
 // Local Triggers
-function resume(e) {CloudFire.resume(e)}
+function resume(e) {CloudFireSetup.resume(e)}
