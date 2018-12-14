@@ -4,7 +4,8 @@
     "libraries": [{
       "userSymbol": "CloudFireSetup",
       "libraryId": "1PI3mWRoeD3LA_WVDOueGJB6ttjbzTr4lrO75tNl3F2-Sqcky_cy-j8NM",
-      "version": "8"
+      "version": "8",
+      "developmentMode": true
     }]
   },
   "exceptionLogging": "STACKDRIVER"

@@ -1,5 +1,5 @@
 var SCRIPT_NAME = "CloudFire_Setup"
-var SCRIPT_VERSION = "v0.6"
+var SCRIPT_VERSION = "v0.6.dev_ajr"
 
 function onOpen() {
   SpreadsheetApp
